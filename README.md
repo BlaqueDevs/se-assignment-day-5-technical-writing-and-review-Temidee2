@@ -20,8 +20,46 @@ To effectively communicate technical information, you need to adapt your content
 5. Test Their Understanding with Simple Questions
     
 ## 4. What techniques can you use to ensure your content is accessible to those with limited technical knowledge?
+1. Use Simple, Clear Language
+2. Incorporate Visual Aids
+3. Break Down Information into Small Steps
+4. Offer Multiple Content Formats
+5. Make Content Interactive & Engaging
+6. Provide Real-World Examples
+      
 ## 5. Why is it important to use plain language instead of technical jargon in your writing?
+Using plain language makes your writing more accessible and understandable to a wider audience. It avoids alienating readers who may not be familiar with technical terms, ensuring that the core message is clear and effective. Plain language helps reduce misunderstandings, builds trust, and allows everyone—regardless of their technical background—to engage with the content.
+
 ## 6. Can you provide examples of how simplifying terms (e.g., "start" instead of "initiate") improves comprehension?
+Using simple, familiar words instead of complex technical terms makes content easier to read and understand. Here are some examples:
+1. Everyday Actions
+Use → Instead of
+Start → Initiate
+End → Terminate
+Fix → Remediate
+Check → Verify
+
+2. Software & Technology
+Use → Instead of
+Sign in → Authenticate
+Save → Persist
+Update → Patch
+Connect → Establish a connection
+
+3. Business & Processes
+Use → Instead of
+Send → Transmit
+Allow → Grant permission
+Help → Facilitate
+Ask → Request
+
+4. Technical Documentation
+Use → Instead of
+Change → Modify
+Make sure → Ensure
+Stop → Halt
+Put together → Assemble
+
 ## 7. How can using examples and visuals help in explaining complex concepts more clearly?
 ## 8. What types of visuals (e.g., diagrams, charts) are most effective for different kinds of technical information?
 ## 9. How do headings and subheadings improve the readability and organization of technical documents?
